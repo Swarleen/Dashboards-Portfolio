@@ -54,7 +54,7 @@ An end-to-end Power BI analytics project simulating the kind of dashboard a Secu
 
 ### 🚀 Live Dashboard
 
-[![Open Dashboard](https://img.shields.io/badge/View%20Live%20Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)(CyberMetrics.gif)](https://app.powerbi.com/view?r=eyJrIjoiMDgyNTA5NmYtOGU3OC00ZTMzLTk2ZGItNDVkYTBhNGFlYTk1IiwidCI6IjMyMWIxNDA4LTIxZjAtNDE0My1hMzkwLTNiNjIwMmU2NWUxZiJ9&pageName=0700ccdab041b1267d16)
+[![Open Dashboard](CyberMetrics.gif)](https://app.powerbi.com/view?r=eyJrIjoiMDgyNTA5NmYtOGU3OC00ZTMzLTk2ZGItNDVkYTBhNGFlYTk1IiwidCI6IjMyMWIxNDA4LTIxZjAtNDE0My1hMzkwLTNiNjIwMmU2NWUxZiJ9&pageName=0700ccdab041b1267d16)
 
 > **Tools:** Power BI · DAX · Power Query · Python · Excel
 
