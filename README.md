@@ -38,7 +38,31 @@ I am a Business Analyst and Data Analyst with a strong eye for security. I have 
 
 ---
 
-## [Project 1: Cybersecurity Incident Tracker](https://github.com/Swarleen/PowerBI-Portfolio)
+## [Project 1: Audit Universe Dashboard](https://github.com/Swarleen/PowerBI-Portfolio)
+
+A risk-based audit planning dashboard simulating the kind of tool a Technology Audit function at a global financial institution would use to manage its audit universe. Built on 44 auditable entities across 5 technology domains — translating risk scores, control effectiveness ratings, and coverage history into a single executive-level decision-support tool.
+
+**Key metrics tracked:**
+- 🔍 44 audit entities across Cybersecurity, Cloud & Infrastructure, Data Governance, IT Governance, and Compliance & Regulatory domains
+- 🔴 Critical & High priority entity concentration by domain
+- ⏰ Overdue entity tracking — coverage gap % across the full universe
+- 📋 150+ open issues with management response status monitoring
+- ⚠️ Weak controls gauge — proportion of the universe with insufficient control effectiveness
+- 🗓️ Average months since last audit — audit backlog visibility
+
+**Key insight:** Nearly two-thirds of the audit universe is overdue for review — not a scheduling problem, an unquantified risk problem.
+
+### 🚀 Live Dashboard
+
+[![Open Dashboard](audit.gif)](https://img.shields.io/badge/Open%20Live%20Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiMjQ1NDA3M2EtMTBjOC00YWJkLWIzZjktZGMzZjRhYjdjNWQzIiwidCI6IjMyMWIxNDA4LTIxZjAtNDE0My1hMzkwLTNiNjIwMmU2NWUxZiJ9)
+
+> 💡 Right-click the badge → Open in new tab to keep this page open while exploring the dashboard.
+
+> **Tools:** Power BI · DAX · Power Query · Python · Excel
+
+---
+
+## [Project 2: Cybersecurity Incident Tracker](https://github.com/Swarleen/PowerBI-Portfolio)
 
 An end-to-end Power BI analytics project simulating the kind of dashboard a Security Operations Centre or Technology Audit team would use to monitor, triage, and report on cybersecurity incidents across an enterprise. Built on 200 incidents across 18 dimensions spanning January 2024 – April 2025 — turning raw incident data into executive-level insights on exposure, response performance, and control gaps.
 
@@ -56,11 +80,13 @@ An end-to-end Power BI analytics project simulating the kind of dashboard a Secu
 
 [![Open Dashboard](CyberMetrics.gif)](https://app.powerbi.com/view?r=eyJrIjoiMDgyNTA5NmYtOGU3OC00ZTMzLTk2ZGItNDVkYTBhNGFlYTk1IiwidCI6IjMyMWIxNDA4LTIxZjAtNDE0My1hMzkwLTNiNjIwMmU2NWUxZiJ9&pageName=0700ccdab041b1267d16)
 
+> 💡 Right-click the image → Open in new tab to keep this page open while exploring the dashboard.
+
 > **Tools:** Power BI · DAX · Power Query · Python · Excel
 
 ---
 
-## [Project 2: QA Metrics Dashboard](https://github.com/Swarleen/qa-metrics-dashboard)
+## [Project 3: QA Metrics Dashboard](https://github.com/Swarleen/qa-metrics-dashboard)
 
 An interactive QA analytics dashboard tracking defect trends, SLA compliance, resolution performance, and test execution quality across 4 agile sprints for an e-commerce platform redesign. Built to make the invisible work of QA engineering fully visible — every defect, every breach, every sprint, laid out in one place.
 
@@ -83,7 +109,7 @@ An interactive QA analytics dashboard tracking defect trends, SLA compliance, re
 
 ---
 
-## [Project 3: Employee Distribution Dashboard](https://github.com/Swarleen/Employee-Distrbution)
+## [Project 4: Employee Distribution Dashboard](https://github.com/Swarleen/Employee-Distrbution)
 
 A powerful HR analytics project that transforms over 22,000 employee records (2000–2020) into actionable insights. Leveraging PostgreSQL for robust data cleaning and Power BI for interactive visual storytelling, this dashboard uncovers critical workforce trends — from diversity and tenure to turnover and geographic distribution — helping organisations make smarter, data-driven HR decisions.
 
@@ -107,7 +133,7 @@ A powerful HR analytics project that transforms over 22,000 employee records (20
 
 ---
 
-## [Project 4: AI-Powered Customer Service Chatbot — Loblaw](https://github.com/Swarleen/LoblawBot-ChatBot)
+## [Project 5: AI-Powered Customer Service Chatbot — Loblaw](https://github.com/Swarleen/LoblawBot-ChatBot)
 
 A full end-to-end business analysis project proposing an AI-powered chatbot to transform Loblaw's customer service operations. Covering competitive analysis, process mapping, solution design, ROI evaluation, and implementation planning — this project demonstrates the complete lifecycle of delivering a scalable, intelligent AI solution for Canada's largest food and pharmacy retailer.
 
