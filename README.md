@@ -54,7 +54,7 @@ A risk-based audit planning dashboard simulating the kind of tool a Technology A
 
 ### 🚀 Live Dashboard
 
-[![Open Dashboard](audit.gif)](https://img.shields.io/badge/Open%20Live%20Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiMjQ1NDA3M2EtMTBjOC00YWJkLWIzZjktZGMzZjRhYjdjNWQzIiwidCI6IjMyMWIxNDA4LTIxZjAtNDE0My1hMzkwLTNiNjIwMmU2NWUxZiJ9)
+[![Open Dashboard](audit.gif)(https://img.shields.io/badge/Open%20Live%20Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiMjQ1NDA3M2EtMTBjOC00YWJkLWIzZjktZGMzZjRhYjdjNWQzIiwidCI6IjMyMWIxNDA4LTIxZjAtNDE0My1hMzkwLTNiNjIwMmU2NWUxZiJ9)
 
 > 💡 Right-click the badge → Open in new tab to keep this page open while exploring the dashboard.
 
