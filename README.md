@@ -29,7 +29,7 @@ Welcome to my personal portfolio repository! Here you will find a collection of 
 
 ## About Me
 
-I am a Business Technology Data Analyst with enperience in Software quality assurance and with a strong eye for security and a growing edge in AI-powered tooling. I build solutions that sit at the intersection of analytics, artificial intelligence, and business intelligence — from natural language query engines and audit analytics tools to Power BI dashboards and BA case studies. This portfolio showcases my ability to bridge business analysis, data analytics, cybersecurity awareness, AI application development, and data storytelling.
+I am a Business Analyst and Data Analyst with a strong eye for security and a growing edge in AI-powered tooling. I build solutions that sit at the intersection of analytics, artificial intelligence, and business intelligence — from natural language query engines and audit analytics tools to Power BI dashboards and BA case studies. This portfolio showcases my ability to bridge business analysis, data analytics, cybersecurity awareness, AI application development, and data storytelling.
 
 [![Connect on LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swarleenbhamra/)
 [![Portfolio Website](https://img.shields.io/badge/Portfolio-swarleen.com-purple?logo=google-chrome&logoColor=white)](https://www.swarleen.com)
@@ -56,9 +56,9 @@ An AI-powered web application that lets anyone query a real database using plain
 
 ### 🚀 Live App
 
-[![Open App](https://img.shields.io/badge/▶%20Open%20AskMyData-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://cyberquery-ai.streamlit.app/)
+[![Open AskMyData App](askmydata.png)](https://cyberquery-ai.streamlit.app/)
 
-> 💡 Right-click → Open in new tab to keep this page open while using the app.
+> 💡 Click the preview above to open the live app · Right-click → Open in new tab to keep this page open
 
 > **Tools:** Python · Streamlit · LLM · Prompt Engineering · SQLite · Pandas · Power BI · Excel
 
@@ -80,9 +80,9 @@ A risk-based audit planning dashboard simulating the kind of tool a Technology A
 
 ### 🚀 Live Dashboard
 
-[![Open Dashboard](https://img.shields.io/badge/Open%20Live%20Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiMjQ1NDA3M2EtMTBjOC00YWJkLWIzZjktZGMzZjRhYjdjNWQzIiwidCI6IjMyMWIxNDA4LTIxZjAtNDE0My1hMzkwLTNiNjIwMmU2NWUxZiJ9)
+[![Open Audit Universe Dashboard](AuditGIF.gif)](https://app.powerbi.com/view?r=eyJrIjoiMjQ1NDA3M2EtMTBjOC00YWJkLWIzZjktZGMzZjRhYjdjNWQzIiwidCI6IjMyMWIxNDA4LTIxZjAtNDE0My1hMzkwLTNiNjIwMmU2NWUxZiJ9)
 
-> 💡 Right-click the badge → Open in new tab to keep this page open while exploring the dashboard.
+> 💡 Click the preview above to open the live dashboard · Right-click → Open in new tab to keep this page open
 
 > **Tools:** Power BI · DAX · Power Query · Python · Excel
 
@@ -180,4 +180,4 @@ A full end-to-end business analysis project proposing an AI-powered chatbot to t
 
 ---
 
-- [<ins><b>©2026 Swarleen Bhamra. All rights reserved</b></ins>]
+- [<ins><b>©2025 Swarleen Bhamra. All rights reserved</b></ins>]
