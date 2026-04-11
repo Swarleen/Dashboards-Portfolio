@@ -80,7 +80,7 @@ A risk-based audit planning dashboard simulating the kind of tool a Technology A
 
 ### 🚀 Live Dashboard
 
-[![Open Audit Universe Dashboard](AuditGIF.gif)](https://app.powerbi.com/view?r=eyJrIjoiMjQ1NDA3M2EtMTBjOC00YWJkLWIzZjktZGMzZjRhYjdjNWQzIiwidCI6IjMyMWIxNDA4LTIxZjAtNDE0My1hMzkwLTNiNjIwMmU2NWUxZiJ9)
+[![Open Audit Universe Dashboard](audit.gif)](https://app.powerbi.com/view?r=eyJrIjoiMjQ1NDA3M2EtMTBjOC00YWJkLWIzZjktZGMzZjRhYjdjNWQzIiwidCI6IjMyMWIxNDA4LTIxZjAtNDE0My1hMzkwLTNiNjIwMmU2NWUxZiJ9)
 
 > 💡 Click the preview above to open the live dashboard · Right-click → Open in new tab to keep this page open
 
