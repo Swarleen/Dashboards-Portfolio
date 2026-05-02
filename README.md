@@ -64,7 +64,7 @@ An AI-powered web application that lets anyone query a real database using plain
 
 ---
 
-## [Project 2: Audit Universe Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjQ1NDA3M2EtMTBjOC00YWJkLWIzZjktZGMzZjRhYjdjNWQzIiwidCI6IjMyMWIxNDA4LTIxZjAtNDE0My1hMzkwLTNiNjIwMmU2NWUxZiJ9)
+## [Project 2: Audit Universe Dashboard](https://github.com/Swarleen/Dashboard_AuditUniverse)
 
 A risk-based audit planning dashboard simulating the kind of tool a Technology Audit function at a global financial institution would use to manage its audit universe. Built on 44 auditable entities across 5 technology domains — translating risk scores, control effectiveness ratings, and coverage history into a single executive-level decision-support tool.
 
