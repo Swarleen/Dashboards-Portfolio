@@ -41,7 +41,7 @@ I am a Business Analyst and Data Analyst with a strong eye for security and a gr
 
 ---
 
-## [Project 1: AskMyData — AI-Powered Natural Language to SQL](https://github.com/Swarleen/askmydata)
+## [Project 1: AskMyData — AI-Powered Natural Language to SQL](https://github.com/Swarleen/CyberQuery_Ai)
 
 An AI-powered web application that lets anyone query a real database using plain English — no SQL knowledge required. Built with Python, Streamlit, and a Large Language Model, AskMyData converts natural language questions into executable SQL, runs them against a live database, and returns results with an AI-generated plain English insight. The full interactive Power BI cybersecurity dashboard is embedded directly inside the app.
 
