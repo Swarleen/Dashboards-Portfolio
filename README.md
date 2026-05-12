@@ -99,7 +99,7 @@ An AI-powered conversational analytics agent built on a real IT Audit Universe d
 
 ### 🚀 Live App
 
-[![Open Ask the Auditor App](Askmyauditor.png)](https://ask-the-auditor.streamlit.app/)
+[![Open Ask the Auditor App](Askmyauditor.png)]([https://ask-the-auditor.streamlit.app/](https://swarleen.github.io/askmyauditor/))
 
 > 💡 Click the preview above to open the live app · Right-click → Open in new tab to keep this page open
 
