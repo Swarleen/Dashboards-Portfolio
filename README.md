@@ -25,11 +25,11 @@
 ![Agile](https://img.shields.io/badge/Agile-%23FF6F00?style=for-the-badge&logo=agile&logoColor=white)
 ![Lean Six Sigma](https://img.shields.io/badge/Lean%20Six%20Sigma-007CBA?style=for-the-badge)
 
-Welcome to my personal portfolio repository! Here you will find a collection of dashboards, data projects, and AI-powered applications that demonstrate my skills in data visualisation, business intelligence, analytics, LLM integration, QA engineering, and security testing.
+Welcome to my personal portfolio repository! Here you will find a collection of dashboards, data projects, and AI-powered applications that demonstrate my skills in data visualization, business intelligence, analytics, LLM integration, QA engineering, and security testing.
 
 ## About Me
 
-I am a Business Analyst and Data Analyst with a strong eye for security and a growing edge in AI-powered tooling. I build solutions that sit at the intersection of analytics, artificial intelligence, and business intelligence — from natural language query engines and audit analytics tools to Power BI dashboards and BA case studies. This portfolio showcases my ability to bridge business analysis, data analytics, cybersecurity awareness, AI application development, and data storytelling.
+Detail-oriented IT professional and Business Analytics graduate with hands-on experience delivering data-driven insights, QA validation, and automation solutions using SQL, Python, and Power BI. Recognized for quickly translating business requirements into technical solutions, building dashboards, and workflow automations. Brings a strong foundation in analytics and stakeholder communication, with a passion for driving impact in fast-paced, technology-driven environments.
 
 [![Connect on LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swarleenbhamra/)
 [![Portfolio Website](https://img.shields.io/badge/Portfolio-swarleen.com-purple?logo=google-chrome&logoColor=white)](https://www.swarleen.com)
