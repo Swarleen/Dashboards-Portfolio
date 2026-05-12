@@ -41,7 +41,7 @@ I am a Business Analyst and Data Analyst with a strong eye for security and a gr
 
 ---
 
-## [Project 1: AskMyData — AI-Powered Natural Language to SQL](https://github.com/Swarleen/CyberQuery_Ai)
+## [Project 1A: AskMyData — AI-Powered Natural Language to SQL](https://github.com/Swarleen/CyberQuery_Ai)
 
 An AI-powered web application that lets anyone query a real database using plain English — no SQL knowledge required. Built with Python, Streamlit, and a Large Language Model, AskMyData converts natural language questions into executable SQL, runs them against a live database, and returns results with an AI-generated plain English insight. The full interactive Power BI cybersecurity dashboard is embedded directly inside the app.
 
@@ -61,6 +61,49 @@ An AI-powered web application that lets anyone query a real database using plain
 > 💡 Click the preview above to open the live app · Right-click → Open in new tab to keep this page open
 
 > **Tools:** Python · Streamlit · LLM · Prompt Engineering · SQLite · Pandas · Power BI · Excel
+
+---
+## [Project 1B: Ask the Auditor — AI Audit Analytics Agent](https://github.com/Swarleen/askmyauditor)
+
+An AI-powered conversational analytics agent built on a real IT Audit Universe dataset. Ask any question in plain English — get data-driven findings, dynamic charts, and audit recommendations instantly.
+
+**What it does:**
+- 🤖 Plain English queries — ask audit questions in natural language and get instant data-driven answers
+- ✅ Analytical answers with specific data citations from the audit universe
+- 📊 Dynamically generated charts (bar, horizontal bar, pie) rendered via Plotly
+- 📋 Underlying data table returned alongside every response
+- 🎯 Key finding — the single most important takeaway per query
+- ⚡ Actionable audit recommendation with every result
+
+**Example questions you can ask:**
+- *"Which domains have the most overdue entities?"*
+- *"Show me all Critical entities with weak controls"*
+- *"Which management responses are overdue or not started?"*
+- *"What entities haven't been audited in over 3 years?"*
+
+**Built on:** 44 auditable entities · 5 technology domains · 13 dimensions per entity
+
+| Domain | Entities |
+|---|---|
+| Cybersecurity | 10 |
+| Cloud & Infrastructure | 9 |
+| Data Governance | 8 |
+| IT Governance | 9 |
+| Compliance & Regulatory | 8 |
+
+**Key metrics:**
+- 🔴 Critical priority entities: 15
+- ⏰ Overdue entities: 29
+- 📋 Total open issues: 150+
+- ⚠️ Weak/Not Tested controls: 18
+
+### 🚀 Live App
+
+[![Open Ask the Auditor App](Askmyauditor.png)](https://ask-the-auditor.streamlit.app/)
+
+> 💡 Click the preview above to open the live app · Right-click → Open in new tab to keep this page open
+
+> **Tools:** Python · Streamlit · Claude (Anthropic API) · Prompt Engineering · Pandas · Plotly · Power BI · Excel
 
 ---
 
